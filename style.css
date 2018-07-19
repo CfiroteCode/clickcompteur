@@ -1,0 +1,26 @@
+.button-center{
+    font-family: 'Anton', sans-serif;
+    margin: 0 auto;
+    font-weight: 900;
+}
+.compteur-nombre{
+    font-family: 'Arvo', serif;
+    font-size: 2em;
+
+}
+.compteur-nombres{
+    display: block;
+    margin: 10px auto;
+}
+.click{
+    display: inline-block;
+    width: 100%;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.col{
+    display: inline;
+}
+.plus, .moins{
+    font-size:3em;
+}
